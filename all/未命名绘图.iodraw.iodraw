@@ -19,7 +19,7 @@
         <mxCell id="jkX-pcUivwhR0FoJOTNI-4" value="4. 电极阵列刺激" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="520" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jkX-pcUivwhR0FoJOTNI-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="jkX-pcUivwhR0FoJOTNI-5" value="5. 感知与皮层适应" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="680" y="60" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
