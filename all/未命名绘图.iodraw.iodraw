@@ -37,8 +37,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jkX-pcUivwhR0FoJOTNI-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="195" y="238" width="50" height="30" as="geometry" />
+        <mxCell id="jkX-pcUivwhR0FoJOTNI-11" value="逆向过程：个体化参数标定、视觉康复训练、软件升级" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="65" y="238" width="310" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
