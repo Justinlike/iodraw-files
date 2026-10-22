@@ -13,7 +13,7 @@
         <mxCell id="jkX-pcUivwhR0FoJOTNI-2" value="2. 信号处理与编码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="200" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="jkX-pcUivwhR0FoJOTNI-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+        <mxCell id="jkX-pcUivwhR0FoJOTNI-3" value="3. 无线传输与供电" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="360" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jkX-pcUivwhR0FoJOTNI-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
