@@ -5,13 +5,22 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dNxyNK7c78bLwvsdeMH5-11" value="Orgchart" style="swimlane;html=1;startSize=20;horizontal=1;containerType=tree;glass=0;" parent="1" vertex="1">
-          <mxGeometry x="40" y="100" width="710" height="290" as="geometry" />
+          <mxGeometry x="40" y="100" width="760" height="290" as="geometry" />
         </mxCell>
         <mxCell id="jkX-pcUivwhR0FoJOTNI-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jkX-pcUivwhR0FoJOTNI-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
           <mxGeometry x="200" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jkX-pcUivwhR0FoJOTNI-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="360" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jkX-pcUivwhR0FoJOTNI-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-11">
+          <mxGeometry x="520" y="60" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="jkX-pcUivwhR0FoJOTNI-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="570" y="170" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
