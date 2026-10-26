@@ -82,8 +82,8 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="24bnDcbtwJQPEI32-v0b-11" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="475" y="668" width="50" height="30" as="geometry" />
+        <mxCell id="24bnDcbtwJQPEI32-v0b-11" value="(1 - t) Ln + t Lc" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="450" y="668" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
