@@ -46,7 +46,7 @@
         <mxCell id="24bnDcbtwJQPEI32-v0b-1" value="Encoder" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=90;" vertex="1" parent="1">
           <mxGeometry x="290" y="710" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="24bnDcbtwJQPEI32-v0b-2" value="" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;" vertex="1" parent="1">
+        <mxCell id="24bnDcbtwJQPEI32-v0b-2" value="解码" style="shape=trapezoid;perimeter=trapezoidPerimeter;whiteSpace=wrap;html=1;fixedSize=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="670" y="710" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="24bnDcbtwJQPEI32-v0b-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
