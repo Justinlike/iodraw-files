@@ -85,6 +85,12 @@
         <mxCell id="24bnDcbtwJQPEI32-v0b-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;xt = (1 - t) Ln + t Lc&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="470" y="690" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="24bnDcbtwJQPEI32-v0b-13" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="24bnDcbtwJQPEI32-v0b-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="740" as="sourcePoint" />
+            <mxPoint x="330" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
