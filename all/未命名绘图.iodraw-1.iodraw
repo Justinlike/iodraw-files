@@ -14,10 +14,22 @@
           <mxGeometry x="370" y="170" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8-rbHKoM-MKtqoQDDp-L-4" value="IMG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="170" width="120" height="40" as="geometry" />
+          <mxGeometry x="380" y="180" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="8-rbHKoM-MKtqoQDDp-L-5" value="IMG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="180" width="120" height="40" as="geometry" />
+          <mxGeometry x="390" y="190" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8-rbHKoM-MKtqoQDDp-L-12" value="IMG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="200" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8-rbHKoM-MKtqoQDDp-L-13" value="IMG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="410" y="210" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8-rbHKoM-MKtqoQDDp-L-14" value="IMG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="220" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8-rbHKoM-MKtqoQDDp-L-15" value="IMG" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="230" width="120" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
